@@ -53,6 +53,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/H2%20Database-1C1C1C?style=for-the-badge&logo=h2&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-1D3557?style=for-the-badge&logo=python&logoColor=white)
 ![Probability](https://img.shields.io/badge/Probability-457B9D?style=for-the-badge&logo=python&logoColor=white)
@@ -86,11 +88,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viitor22&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viitor22&layout=compact&theme=radical)
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Viitor22&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viitor22&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  
 </div>
 
 ---
