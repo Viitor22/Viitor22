@@ -4,19 +4,6 @@
 
 ---
 
-## 🧩 Sobre mim
-👋 Olá! Eu sou **Vitor**, um estudante buscando por desafios.  
-
----
-
-## 🎓 Formação
-- **Ex-estudante** de Engenharia Elétrica – UFCG  
-- **Graduando em Sistemas de Informação**  
-- Sólidos conhecimentos em **Front-End**, com adaptabilidade e foco em resultados.  
-- Aprimorando habilidades técnicas e teóricas em computação através de **cursos** e **autodidatismo**.
-
----
-
 ## 💻 Hard Skills
 - **Linguagens & Front-End**: HTML, CSS, JavaScript, TypeScript  
 - **Desenvolvimento Web & Mobile**  
@@ -29,7 +16,7 @@
 - Hadoop  
 - Spark  
 - Airflow  
-- Docker  
+- Docker
 
 ---
 
@@ -54,7 +41,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<div>
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viitor22&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viitor22&layout=compact&theme=radical)
