@@ -4,22 +4,6 @@
 
 ---
 
-## 💻 Hard Skills
-- **Linguagens & Front-End**: HTML, CSS, JavaScript, TypeScript  
-- **Desenvolvimento Web & Mobile**  
-- **Pré-processadores**: SASS, LESS  
-- **Banco de Dados & SQL**  
-- **Back-End & Cloud**: Python, APIs REST, AWS  
-- **Data & BI**: Power BI, Jupyter Notebook, Google Colab
-
-## 🤓 Habilidades em Desenvolvimento
-- Hadoop  
-- Spark  
-- Airflow  
-- Docker
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
